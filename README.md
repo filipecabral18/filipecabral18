@@ -1,7 +1,8 @@
 ## Opa! Eu sou o Filipe cabral
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
-- Estudante da Universidade Federal de Sergipe
+- 🔭 Hoje trabalho com front-end.
+- 🌱 Estudando React.
+- Estudante da Universidade Federal de Sergipe.
+- Estudante da Estácio.
 
  <div>
   <a href="https://github.com/filipecabral18">
