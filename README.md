@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Filipe cabral
 - 🔭 Hoje trabalho com front-end.
-- 🌱 Estudando React.
+- 🌱 Estudando React e Laravel.
 - Estudante da Universidade Federal de Sergipe.
 - Estudante da Estácio.
 
